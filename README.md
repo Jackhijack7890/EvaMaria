@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/suryaprabhas1245/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/suryaprabhas1245/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/suryaprabhas1245/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/suryaprabhas1245/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/suryaprabhas1245/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/suryaprabhas1245/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/suryaprabhas1245/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/Jackhijack7890/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/Jackhijack7890/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/Jackhijack7890/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Jackhijack7890/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/Jackhijack7890/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Jackhijack7890/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Jackhijack7890/EvaMaria)
 
 
 ## Features
@@ -58,7 +58,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/SuryaPrabhas1245/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Jackhijack7890/evamaria/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -67,7 +67,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/suryaprabhas1245/evamaria
+git clone https://github.com/Jackhijack7890/evamaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -108,10 +108,10 @@ python3 bot.py
 ```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Support-30302f?style=flat&logo=telegram)](https://telegram.dog/suryaprabhas)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeluguDubbedHorrorMovies2)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/star_movies_hd_telugu)
 
 ## Credits 
-* [![Surya Prabhas](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/SuryaPrabhas)
+* [![Jack](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Jackkl)
 
 
 ## Thanks to 
